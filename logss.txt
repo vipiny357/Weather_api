@@ -1,0 +1,35 @@
+-------------------------------------------------------------
+Weather Stats for - PUNE,INDIA  || 22 Jun 2021 | 02:33:45 AM
+-------------------------------------------------------------
+Current temperature is: 22.79 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 86 %
+Current wind speed    : 3.35 kmph
+Today's Sunrise Time  : 2021-06-22 05:59:15
+Today's Sunset Time  : 2021-06-22 19:13:47
+-------------------------------------------------------------
+Weather Stats for - RAJASTHAN,INDIA  || 22 Jun 2021 | 02:55:46 AM
+-------------------------------------------------------------
+Current temperature is: 28.63 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 62 %
+Current wind speed    : 6.22 kmph
+Today's Sunrise Time  : 2021-06-22 05:42:59
+Today's Sunset Time  : 2021-06-22 19:28:53
+-------------------------------------------------------------
+Weather Stats for - SHIMLA,INDIA  || 22 Jun 2021 | 03:11:08 AM
+-------------------------------------------------------------
+Current temperature is: 16.20 deg C
+Current weather desc  : clear sky
+Current Humidity      : 64 %
+Current wind speed    : 2.03 kmph
+Today's Sunrise Time  : 2021-06-22 05:18:14
+Today's Sunset Time  : 2021-06-22 19:28:18-------------------------------------------------------------
+Weather Stats for - KOLKATA,INDIA  || 22 Jun 2021 | 03:14:21 AM
+-------------------------------------------------------------
+Current temperature is: 27.97 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 94 %
+Current wind speed    : 0 kmph
+Today's Sunrise Time  : 2021-06-22 04:52:56
+Today's Sunset Time  : 2021-06-22 18:23:58
